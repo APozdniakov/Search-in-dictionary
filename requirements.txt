@@ -1,0 +1,6 @@
+build-essential
+cmake
+curl
+libgtest-dev
+libpthread-stubs0-dev
+qt5-default
